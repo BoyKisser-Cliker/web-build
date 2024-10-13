@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "Faites 10 baisers",
+    "achievement_10_kisses_notification": "Débutant garçon embrasseur",
+    
+    "achievement_50_kisses_title": "Faites 50 baisers",
+    "achievement_50_kisses_notification": "Amateur de garçons",
+    
+    "achievement_100_kisses_title": "Faites 100 baisers",
+    "achievement_100_kisses_notification": "Presque maître des baisers",
+    
+    "achievement_500_kisses_title": "Faites 500 baisers",
+    "achievement_500_kisses_notification": "Embrasseur en formation",
+    
+    "achievement_1000_kisses_title": "Faites 1 000 baisers",
+    "achievement_1000_kisses_notification": "Embrassez et souriez",
+    
+    "achievement_5000_kisses_title": "Faites 5 000 baisers",
+    "achievement_5000_kisses_notification": "Habitude de l'embrassade",
+    
+    "achievement_10000_kisses_title": "Faites 10 000 baisers",
+    "achievement_10000_kisses_notification": "Embrasseur expérimenté",
+    
+    "achievement_50000_kisses_title": "Faites 50 000 baisers",
+    "achievement_50000_kisses_notification": "Embrasseur semi-professionnel",
+    
+    "achievement_100000_kisses_title": "Faites 100 000 baisers",
+    "achievement_100000_kisses_notification": "Maître des baisers rapides",
+    
+    "achievement_300000_kisses_title": "Faites 300 000 baisers",
+    "achievement_300000_kisses_notification": "Embrasser un village entier",
+    
+    "achievement_500000_kisses_title": "Faites 500 000 baisers",
+    "achievement_500000_kisses_notification": "Embrasser comme vous respirez",
+    
+    "achievement_1000000_kisses_title": "Faites 1 000 000 baisers",
+    "achievement_1000000_kisses_notification": "Embrasser une ville entière",
+    
+    "achievement_2000000_kisses_title": "Faites 2 000 000 baisers",
+    "achievement_2000000_kisses_notification": "Embrasser mieux que les étoiles",
+    
+    "achievement_10000000_kisses_title": "Faites 10 000 000 baisers",
+    "achievement_10000000_kisses_notification": "Embrasser comme un dieu",
+    
+    "achievement_500000000_kisses_title": "Faites 500 000 000 baisers",
+    "achievement_500000000_kisses_notification": "Embrasseur le plus populaire",
+    
+    "achievement_8000000000_kisses_title": "Faites 8 000 000 000 baisers",
+    "achievement_8000000000_kisses_notification": "Embrasseur à l'échelle planétaire",
+    
+    "achievement_10000000000_kisses_title": "Faites 10 000 000 000 baisers",
+    "achievement_10000000000_kisses_notification": "Roi des baisers de l'univers",
+    
+    "achievement_50000000000_kisses_title": "Faites 50 000 000 000 baisers",
+    "achievement_50000000000_kisses_notification": "Embrasseur galactique",
+    
+    "achievement_1000000000000_kisses_title": "Faites 1 000 000 000 000 baisers",
+    "achievement_1000000000000_kisses_notification": "Embrasser l'ensemble du multivers",
+    
+    "achievement_10_kisses_per_second_title": "Augmentez vos revenus à 10 baisers par seconde",
+    "achievement_10_kisses_per_second_notification": "Baisers automatiques",
+    
+    "achievement_100_kisses_per_second_title": "Augmentez vos revenus à 100 baisers par seconde",
+    "achievement_100_kisses_per_second_notification": "Embrasseur demandé",
+    
+    "achievement_500_kisses_per_second_title": "Augmentez vos revenus à 500 baisers par seconde",
+    "achievement_500_kisses_per_second_notification": "Usine à baisers",
+    
+    "achievement_1000_kisses_per_second_title": "Augmentez vos revenus à 1 000 baisers par seconde",
+    "achievement_1000_kisses_per_second_notification": "Établir la production de baisers",
+    
+    "achievement_10000_kisses_per_second_title": "Augmentez vos revenus à 10 000 baisers par seconde",
+    "achievement_10000_kisses_per_second_notification": "Générateur de baisers",
+    
+    "achievement_50000_kisses_per_second_title": "Augmentez vos revenus à 50 000 baisers par seconde",
+    "achievement_50000_kisses_per_second_notification": "Embrasseur sur la chaîne de montage",
+    
+    "achievement_100000_kisses_per_second_title": "Augmentez vos revenus à 100 000 baisers par seconde",
+    "achievement_100000_kisses_per_second_notification": "Embrasseur en gros",
+    
+    "achievement_500000000_kisses_per_second_title": "Augmentez vos revenus à 500 000 000 baisers par seconde",
+    "achievement_500000000_kisses_per_second_notification": "Baisers de galaxies",
+    
+    "achievement_1000000_kisses_per_second_title": "Augmentez vos revenus à 1 000 000 baisers par seconde",
+    "achievement_1000000_kisses_per_second_notification": "Fournisseur de baisers pour d'autres planètes",
+    
+    "achievement_1000000000000_kisses_per_second_title": "Augmentez vos revenus à 1 000 000 000 000 baisers par seconde",
+    "achievement_1000000000000_kisses_per_second_notification": "Embrasseur immortel de tous les temps et peuples",
+    
+    "achievement_100000000000000_kisses_title": "Faites 100 000 000 000 000 baisers",
+    "achievement_100000000000000_kisses_notification": "Embrassez plus vite que la lumière",
+    
+    "upgrade_lapki_name": "Pattes",
+    "upgrade_lapki_description": "Vous piquerez plus efficacement +1 baiser par piqûre",
+    "upgrade_pomada_name": "Rouge à lèvres",
+    "upgrade_pomada_description": "Vous embrassez les mains libres ! +0,1 par seconde",
+    "upgrade_sladosti_name": "Bonbons",
+    "upgrade_sladosti_description": "Vous attirez plus de garçons +1 par seconde",
+    "upgrade_romantic_music_name": "Musique romantique",
+    "upgrade_romantic_music_description": "La musique apporte plus de baisers +8 par seconde",
+    "upgrade_shlushevye_toys_name": "Jouets en peluche",
+    "upgrade_shlushevye_toys_description": "Les jouets apportent encore plus +48 par seconde",
+    "upgrade_romantic_letters_name": "Lettres romantiques",
+    "upgrade_romantic_letters_description": "Attirez beaucoup plus +270 par seconde",
+    "upgrade_pink_glasses_name": "Lunettes roses",
+    "upgrade_pink_glasses_description": "Une vue différente apporte encore plus +1500 par seconde",
+    "upgrade_kiss_machine_name": "Machine à baisers",
+    "upgrade_kiss_machine_description": "Distribue des baisers dans les lieux publics +8000 par seconde",
+    "upgrade_kissing_party_name": "Fête des baisers",
+    "upgrade_kissing_party_description": "Les fêtes attirent plus de garçons +45000 par seconde",
+    "upgrade_kissing_car_name": "Voiture à baisers",
+    "upgrade_kissing_car_description": "Distribue des baisers dans la rue +280000 par seconde",
+    "upgrade_kissing_factory_name": "Usine à baisers",
+    "upgrade_kissing_factory_description": "Produit des baisers de manière industrielle +1800000 par seconde",
+    "upgrade_drone_kisser_name": "Drone embrasseur",
+    "upgrade_drone_kisser_description": "Les drones trouvent automatiquement des garçons +10000000 par seconde",
+    "upgrade_kiss_virus_name": "Virus informatique à baisers",
+    "upgrade_kiss_virus_description": "Le virus propage des baisers avec une efficacité maximale",
+    "shop_title": "Magasin de l'amour",
+    "per_sec": "par seconde",
+    "per_kiss": "par baiser",
+    "close_shop": "Fermez-moi",
+    "shop_price": "Prix",
+    "effects": "Effets",
+    "music": "Musique",
+    "settings": "Paramètres",
+    "version": "Version",
+    "tg_channel": "Canal Telegram",
+    "settings_close": "Fermez-moi",
+    "archevements": "Réalisations",
+    "archevements_close": "Fermer",
+    "progress": "Progrès",
+    "shop_tab_upgrades": "Améliorations",
+    "shop_tab_items": "Articles",
+    "language": "Langue"
+}

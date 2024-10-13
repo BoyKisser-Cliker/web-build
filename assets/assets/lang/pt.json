@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "Fazer 10 beijos",
+    "achievement_10_kisses_notification": "Beijador iniciante",
+    
+    "achievement_50_kisses_title": "Fazer 50 beijos",
+    "achievement_50_kisses_notification": "Amante de meninos",
+    
+    "achievement_100_kisses_title": "Fazer 100 beijos",
+    "achievement_100_kisses_notification": "Quase um mestre dos beijos",
+    
+    "achievement_500_kisses_title": "Fazer 500 beijos",
+    "achievement_500_kisses_notification": "Beijador em treinamento",
+    
+    "achievement_1000_kisses_title": "Fazer 1.000 beijos",
+    "achievement_1000_kisses_notification": "Beije e sorria",
+    
+    "achievement_5000_kisses_title": "Fazer 5.000 beijos",
+    "achievement_5000_kisses_notification": "Hábito de beijar",
+    
+    "achievement_10000_kisses_title": "Fazer 10.000 beijos",
+    "achievement_10000_kisses_notification": "Beijador experiente de meninos",
+    
+    "achievement_50000_kisses_title": "Fazer 50.000 beijos",
+    "achievement_50000_kisses_notification": "Beijador semi-profissional",
+    
+    "achievement_100000_kisses_title": "Fazer 100.000 beijos",
+    "achievement_100000_kisses_notification": "Mestre dos beijos em alta velocidade",
+    
+    "achievement_300000_kisses_title": "Fazer 300.000 beijos",
+    "achievement_300000_kisses_notification": "Beije toda a aldeia",
+    
+    "achievement_500000_kisses_title": "Fazer 500.000 beijos",
+    "achievement_500000_kisses_notification": "Beije como você respira",
+    
+    "achievement_1000000_kisses_title": "Fazer 1.000.000 beijos",
+    "achievement_1000000_kisses_notification": "Beije toda a cidade",
+    
+    "achievement_2000000_kisses_title": "Fazer 2.000.000 beijos",
+    "achievement_2000000_kisses_notification": "Beije melhor do que as estrelas",
+    
+    "achievement_10000000_kisses_title": "Fazer 10.000.000 beijos",
+    "achievement_10000000_kisses_notification": "Beije como um deus",
+    
+    "achievement_500000000_kisses_title": "Fazer 500.000.000 beijos",
+    "achievement_500000000_kisses_notification": "Beijador mais popular",
+    
+    "achievement_8000000000_kisses_title": "Fazer 8.000.000.000 beijos",
+    "achievement_8000000000_kisses_notification": "Beijador em escala planetária",
+    
+    "achievement_10000000000_kisses_title": "Fazer 10.000.000.000 beijos",
+    "achievement_10000000000_kisses_notification": "Rei dos Beijos do Universo",
+    
+    "achievement_50000000000_kisses_title": "Fazer 50.000.000.000 beijos",
+    "achievement_50000000000_kisses_notification": "Beijador galáctico",
+    
+    "achievement_1000000000000_kisses_title": "Fazer 1.000.000.000.000 beijos",
+    "achievement_1000000000000_kisses_notification": "Beije todo o multiverso",
+    
+    "achievement_10_kisses_per_second_title": "Aumente a receita para 10 beijos por segundo",
+    "achievement_10_kisses_per_second_notification": "Beijos automáticos",
+    
+    "achievement_100_kisses_per_second_title": "Aumente a receita para 100 beijos por segundo",
+    "achievement_100_kisses_per_second_notification": "Beijador em demanda",
+    
+    "achievement_500_kisses_per_second_title": "Aumente a receita para 500 beijos por segundo",
+    "achievement_500_kisses_per_second_notification": "Fábrica de beijos",
+    
+    "achievement_1000_kisses_per_second_title": "Aumente a receita para 1.000 beijos por segundo",
+    "achievement_1000_kisses_per_second_notification": "Estabelecer produção de beijos",
+    
+    "achievement_10000_kisses_per_second_title": "Aumente a receita para 10.000 beijos por segundo",
+    "achievement_10000_kisses_per_second_notification": "Gerador de beijos",
+    
+    "achievement_50000_kisses_per_second_title": "Aumente a receita para 50.000 beijos por segundo",
+    "achievement_50000_kisses_per_second_notification": "Beijador na linha de montagem",
+    
+    "achievement_100000_kisses_per_second_title": "Aumente a receita para 100.000 beijos por segundo",
+    "achievement_100000_kisses_per_second_notification": "Beijador por atacado",
+    
+    "achievement_500000000_kisses_per_second_title": "Aumente a receita para 500.000.000 beijos por segundo",
+    "achievement_500000000_kisses_per_second_notification": "Beije galáxias",
+    
+    "achievement_1000000_kisses_per_second_title": "Aumente a receita para 1.000.000 beijos por segundo",
+    "achievement_1000000_kisses_per_second_notification": "Fornecedor de beijos para outros planetas",
+    
+    "achievement_1000000000000_kisses_per_second_title": "Aumente a receita para 1.000.000.000.000 beijos por segundo",
+    "achievement_1000000000000_kisses_per_second_notification": "Beijador imortal de todos os tempos e povos",
+    
+    "achievement_100000000000000_kisses_title": "Fazer 100.000.000.000.000 beijos",
+    "achievement_100000000000000_kisses_notification": "Beije mais rápido que a luz",
+    
+    "upgrade_lapki_name": "Patas",
+    "upgrade_lapki_description": "Você cutuca de forma mais eficiente +1 beijo por cutucada",
+    "upgrade_pomada_name": "Batom",
+    "upgrade_pomada_description": "Você beija sem usar as mãos! +0.1 por segundo",
+    "upgrade_sladosti_name": "Doces",
+    "upgrade_sladosti_description": "Você atrai mais meninos +1 por segundo",
+    "upgrade_romantic_music_name": "Música romântica",
+    "upgrade_romantic_music_description": "A música traz mais beijos +8 por segundo",
+    "upgrade_shlushevye_toys_name": "Pelúcias",
+    "upgrade_shlushevye_toys_description": "Os brinquedos trazem ainda mais +48 por segundo",
+    "upgrade_romantic_letters_name": "Cartas românticas",
+    "upgrade_romantic_letters_description": "Atraí muito mais +270 por segundo",
+    "upgrade_pink_glasses_name": "Óculos cor-de-rosa",
+    "upgrade_pink_glasses_description": "Uma nova visão traz ainda mais +1500 por segundo",
+    "upgrade_kiss_machine_name": "Máquina de Beijo",
+    "upgrade_kiss_machine_description": "Distribui beijos em lugares públicos +8000 por segundo",
+    "upgrade_kissing_party_name": "Festa de Beijos",
+    "upgrade_kissing_party_description": "As festas atraem mais meninos +45000 por segundo",
+    "upgrade_kissing_car_name": "Carro de Beijos",
+    "upgrade_kissing_car_description": "Entrega beijos pela rua +280000 por segundo",
+    "upgrade_kissing_factory_name": "Fábrica de Beijos",
+    "upgrade_kissing_factory_description": "Produz beijos industrialmente +1800000 por segundo",
+    "upgrade_drone_kisser_name": "Drone Beijador",
+    "upgrade_drone_kisser_description": "Drones encontram meninos automaticamente +10000000 por segundo",
+    "upgrade_kiss_virus_name": "Vírus do beijo",
+    "upgrade_kiss_virus_description": "O vírus espalha beijos com eficiência máxima",
+    "shop_title": "Loja do Amor",
+    "per_sec": "por segundo",
+    "per_kiss": "por beijo",
+    "close_shop": "Fechar para mim",
+    "shop_price": "Preço",
+    "effects": "Efeitos",
+    "music": "Música",
+    "settings": "Configurações",
+    "version": "Versão",
+    "tg_channel": "Canal do Telegram",
+    "settings_close": "Fechar para mim",
+    "archevements": "Conquistas",
+    "archevements_close": "Fechar",
+    "progress": "Progresso",
+    "shop_tab_upgrades": "Melhorias",
+    "shop_tab_items": "Itens",
+    "language": "Idioma"
+}

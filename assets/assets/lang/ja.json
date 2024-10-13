@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "10回のキスをする",
+    "achievement_10_kisses_notification": "初心者のキスする男",
+    
+    "achievement_50_kisses_title": "50回のキスをする",
+    "achievement_50_kisses_notification": "男の子の恋人",
+    
+    "achievement_100_kisses_title": "100回のキスをする",
+    "achievement_100_kisses_notification": "ほぼキスの達人",
+    
+    "achievement_500_kisses_title": "500回のキスをする",
+    "achievement_500_kisses_notification": "トレーニング中のキスする男",
+    
+    "achievement_1000_kisses_title": "1,000回のキスをする",
+    "achievement_1000_kisses_notification": "キスして笑う",
+    
+    "achievement_5000_kisses_title": "5,000回のキスをする",
+    "achievement_5000_kisses_notification": "キスの習慣",
+    
+    "achievement_10000_kisses_title": "10,000回のキスをする",
+    "achievement_10000_kisses_notification": "経験豊富な少年のキスする男",
+    
+    "achievement_50000_kisses_title": "50,000回のキスをする",
+    "achievement_50000_kisses_notification": "準プロのキスする男",
+    
+    "achievement_100000_kisses_title": "100,000回のキスをする",
+    "achievement_100000_kisses_notification": "高速キスの達人",
+    
+    "achievement_300000_kisses_title": "300,000回のキスをする",
+    "achievement_300000_kisses_notification": "村全体をキスする",
+    
+    "achievement_500000_kisses_title": "500,000回のキスをする",
+    "achievement_500000_kisses_notification": "息をするようにキスする",
+    
+    "achievement_1000000_kisses_title": "1,000,000回のキスをする",
+    "achievement_1000000_kisses_notification": "都市全体をキスする",
+    
+    "achievement_2000000_kisses_title": "2,000,000回のキスをする",
+    "achievement_2000000_kisses_notification": "星よりも上手にキスする",
+    
+    "achievement_10000000_kisses_title": "10,000,000回のキスをする",
+    "achievement_10000000_kisses_notification": "神のようにキスする",
+    
+    "achievement_500000000_kisses_title": "500,000,000回のキスをする",
+    "achievement_500000000_kisses_notification": "最も人気のあるキスする男",
+    
+    "achievement_8000000000_kisses_title": "8,000,000,000回のキスをする",
+    "achievement_8000000000_kisses_notification": "惑星規模のキスする男",
+    
+    "achievement_10000000000_kisses_title": "10,000,000,000回のキスをする",
+    "achievement_10000000000_kisses_notification": "宇宙のキス王",
+    
+    "achievement_50000000000_kisses_title": "50,000,000,000回のキスをする",
+    "achievement_50000000000_kisses_notification": "銀河のキスする男",
+    
+    "achievement_1000000000000_kisses_title": "1,000,000,000,000回のキスをする",
+    "achievement_1000000000000_kisses_notification": "全てのマルチバースをキスする",
+    
+    "achievement_10_kisses_per_second_title": "1秒間に10回のキス収入を上げる",
+    "achievement_10_kisses_per_second_notification": "自動キス",
+    
+    "achievement_100_kisses_per_second_title": "1秒間に100回のキス収入を上げる",
+    "achievement_100_kisses_per_second_notification": "需要のあるキスする男",
+    
+    "achievement_500_kisses_per_second_title": "1秒間に500回のキス収入を上げる",
+    "achievement_500_kisses_per_second_notification": "キス工場",
+    
+    "achievement_1000_kisses_per_second_title": "1秒間に1,000回のキス収入を上げる",
+    "achievement_1000_kisses_per_second_notification": "キス生産を確立する",
+    
+    "achievement_10000_kisses_per_second_title": "1秒間に10,000回のキス収入を上げる",
+    "achievement_10000_kisses_per_second_notification": "キス発電機",
+    
+    "achievement_50000_kisses_per_second_title": "1秒間に50,000回のキス収入を上げる",
+    "achievement_50000_kisses_per_second_notification": "コンベヤーベルトのキスする男",
+    
+    "achievement_100000_kisses_per_second_title": "1秒間に100,000回のキス収入を上げる",
+    "achievement_100000_kisses_per_second_notification": "卸売のキスする男",
+    
+    "achievement_500000000_kisses_per_second_title": "1秒間に500,000,000回のキス収入を上げる",
+    "achievement_500000000_kisses_per_second_notification": "銀河をキスする",
+    
+    "achievement_1000000_kisses_per_second_title": "1秒間に1,000,000回のキス収入を上げる",
+    "achievement_1000000_kisses_per_second_notification": "他の惑星にキスを供給する",
+    
+    "achievement_1000000000000_kisses_per_second_title": "1秒間に1,000,000,000,000回のキス収入を上げる",
+    "achievement_1000000000000_kisses_per_second_notification": "あらゆる時代と民族の不死のキスする男",
+    
+    "achievement_100000000000000_kisses_title": "100,000,000,000,000回のキスをする",
+    "achievement_100000000000000_kisses_notification": "光の速さよりも早くキスをする",
+    
+    "upgrade_lapki_name": "足",
+    "upgrade_lapki_description": "より効率的に突く +1キス/突き",
+    "upgrade_pomada_name": "リップスティック",
+    "upgrade_pomada_description": "手を使わずにキスする！+0.1秒あたり",
+    "upgrade_sladosti_name": "お菓子",
+    "upgrade_sladosti_description": "より多くの少年を惹きつける +1秒あたり",
+    "upgrade_romantic_music_name": "ロマンティック音楽",
+    "upgrade_romantic_music_description": "音楽がより多くのキスをもたらす +8秒あたり",
+    "upgrade_shlushevye_toys_name": "ぬいぐるみ",
+    "upgrade_shlushevye_toys_description": "おもちゃがさらに多くをもたらす +48秒あたり",
+    "upgrade_romantic_letters_name": "ロマンティックレター",
+    "upgrade_romantic_letters_description": "さらに多くを惹きつける +270秒あたり",
+    "upgrade_pink_glasses_name": "ピンクのメガネ",
+    "upgrade_pink_glasses_description": "異なる視点がさらに多くをもたらす +1500秒あたり",
+    "upgrade_kiss_machine_name": "キス機",
+    "upgrade_kiss_machine_description": "公共の場でキスを配布 +8000秒あたり",
+    "upgrade_kissing_party_name": "キスパーティー",
+    "upgrade_kissing_party_description": "パーティーがより多くの少年を惹きつける +45000秒あたり",
+    "upgrade_kissing_car_name": "キスカー",
+    "upgrade_kissing_car_description": "通りでキスを配達 +280000秒あたり",
+    "upgrade_kissing_factory_name": "キス工場",
+    "upgrade_kissing_factory_description": "工業的にキスを生産 +1800000秒あたり",
+    "upgrade_drone_kisser_name": "キスドローン",
+    "upgrade_drone_kisser_description": "ドローンが自動的に少年を見つける +10000000秒あたり",
+    "upgrade_kiss_virus_name": "キスコンピュータウイルス",
+    "upgrade_kiss_virus_description": "ウイルスが最大の効率でキスを広める",
+    "shop_title": "愛のショップ",
+    "per_sec": "秒あたり",
+    "per_kiss": "キスあたり",
+    "close_shop": "閉じる",
+    "shop_price": "価格",
+    "effects": "効果",
+    "music": "音楽",
+    "settings": "設定",
+    "version": "バージョン",
+    "tg_channel": "テレグラムチャンネル",
+    "settings_close": "閉じる",
+    "archevements": "業績",
+    "archevements_close": "閉じる",
+    "progress": "進行状況",
+    "shop_tab_upgrades": "アップグレード",
+    "shop_tab_items": "アイテム",
+    "language": "言語"
+}

@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "Haz 10 besos",
+    "achievement_10_kisses_notification": "Beso de chico principiante",
+    
+    "achievement_50_kisses_title": "Haz 50 besos",
+    "achievement_50_kisses_notification": "Amante de los chicos",
+    
+    "achievement_100_kisses_title": "Haz 100 besos",
+    "achievement_100_kisses_notification": "Casi un maestro de los besos",
+    
+    "achievement_500_kisses_title": "Haz 500 besos",
+    "achievement_500_kisses_notification": "Beso en entrenamiento",
+    
+    "achievement_1000_kisses_title": "Haz 1,000 besos",
+    "achievement_1000_kisses_notification": "Besa y sonríe",
+    
+    "achievement_5000_kisses_title": "Haz 5,000 besos",
+    "achievement_5000_kisses_notification": "Hábito de besar",
+    
+    "achievement_10000_kisses_title": "Haz 10,000 besos",
+    "achievement_10000_kisses_notification": "Beso experimentado de chico",
+    
+    "achievement_50000_kisses_title": "Haz 50,000 besos",
+    "achievement_50000_kisses_notification": "Beso semiprofesional",
+    
+    "achievement_100000_kisses_title": "Haz 100,000 besos",
+    "achievement_100000_kisses_notification": "Maestro de los besos a alta velocidad",
+    
+    "achievement_300000_kisses_title": "Haz 300,000 besos",
+    "achievement_300000_kisses_notification": "Besa a toda una aldea",
+    
+    "achievement_500000_kisses_title": "Haz 500,000 besos",
+    "achievement_500000_kisses_notification": "Besa como si respiraras",
+    
+    "achievement_1000000_kisses_title": "Haz 1,000,000 besos",
+    "achievement_1000000_kisses_notification": "Besa a toda una ciudad",
+    
+    "achievement_2000000_kisses_title": "Haz 2,000,000 besos",
+    "achievement_2000000_kisses_notification": "Besa mejor que las estrellas",
+    
+    "achievement_10000000_kisses_title": "Haz 10,000,000 besos",
+    "achievement_10000000_kisses_notification": "Besa como un dios",
+    
+    "achievement_500000000_kisses_title": "Haz 500,000,000 besos",
+    "achievement_500000000_kisses_notification": "Beso más popular",
+    
+    "achievement_8000000000_kisses_title": "Haz 8,000,000,000 besos",
+    "achievement_8000000000_kisses_notification": "Beso a escala planetaria",
+    
+    "achievement_10000000000_kisses_title": "Haz 10,000,000,000 besos",
+    "achievement_10000000000_kisses_notification": "Rey de los besos del universo",
+    
+    "achievement_50000000000_kisses_title": "Haz 50,000,000,000 besos",
+    "achievement_50000000000_kisses_notification": "Beso galáctico",
+    
+    "achievement_1000000000000_kisses_title": "Haz 1,000,000,000,000 besos",
+    "achievement_1000000000000_kisses_notification": "Besa a todo el multiverso",
+    
+    "achievement_10_kisses_per_second_title": "Aumenta los ingresos a 10 besos por segundo",
+    "achievement_10_kisses_per_second_notification": "Besos automáticos",
+    
+    "achievement_100_kisses_per_second_title": "Aumenta los ingresos a 100 besos por segundo",
+    "achievement_100_kisses_per_second_notification": "Beso muy solicitado",
+    
+    "achievement_500_kisses_per_second_title": "Aumenta los ingresos a 500 besos por segundo",
+    "achievement_500_kisses_per_second_notification": "Fábrica de besos",
+    
+    "achievement_1000_kisses_per_second_title": "Aumenta los ingresos a 1,000 besos por segundo",
+    "achievement_1000_kisses_per_second_notification": "Establece la producción de besos",
+    
+    "achievement_10000_kisses_per_second_title": "Aumenta los ingresos a 10,000 besos por segundo",
+    "achievement_10000_kisses_per_second_notification": "Generador de besos",
+    
+    "achievement_50000_kisses_per_second_title": "Aumenta los ingresos a 50,000 besos por segundo",
+    "achievement_50000_kisses_per_second_notification": "Beso en la línea de producción",
+    
+    "achievement_100000_kisses_per_second_title": "Aumenta los ingresos a 100,000 besos por segundo",
+    "achievement_100000_kisses_per_second_notification": "Beso al por mayor",
+    
+    "achievement_500000000_kisses_per_second_title": "Aumenta los ingresos a 500,000,000 besos por segundo",
+    "achievement_500000000_kisses_per_second_notification": "Besa galaxias",
+    
+    "achievement_1000000_kisses_per_second_title": "Aumenta los ingresos a 1,000,000 besos por segundo",
+    "achievement_1000000_kisses_per_second_notification": "Proveedor de besos a otros planetas",
+    
+    "achievement_1000000000000_kisses_per_second_title": "Aumenta los ingresos a 1,000,000,000,000 besos por segundo",
+    "achievement_1000000000000_kisses_per_second_notification": "Beso inmortal de todos los tiempos y pueblos",
+    
+    "achievement_100000000000000_kisses_title": "Haz 100,000,000,000,000 besos",
+    "achievement_100000000000000_kisses_notification": "Besa más rápido que la velocidad de la luz",
+    
+    "upgrade_lapki_name": "Patas",
+    "upgrade_lapki_description": "Tocas de manera más eficiente +1 beso por toque",
+    "upgrade_pomada_name": "Lápiz labial",
+    "upgrade_pomada_description": "¡Besa sin manos! +0.1 por segundo",
+    "upgrade_sladosti_name": "Dulces",
+    "upgrade_sladosti_description": "Atraes a más chicos +1 por segundo",
+    "upgrade_romantic_music_name": "Música romántica",
+    "upgrade_romantic_music_description": "La música trae más besos +8 por segundo",
+    "upgrade_shlushevye_toys_name": "Juguetes de peluche",
+    "upgrade_shlushevye_toys_description": "Los juguetes traen aún más +48 por segundo",
+    "upgrade_romantic_letters_name": "Cartas románticas",
+    "upgrade_romantic_letters_description": "Atrae mucho más +270 por segundo",
+    "upgrade_pink_glasses_name": "Gafas de color rosa",
+    "upgrade_pink_glasses_description": "Una vista diferente trae aún más +1500 por segundo",
+    "upgrade_kiss_machine_name": "Máquina de besos",
+    "upgrade_kiss_machine_description": "Dispensa besos en lugares públicos +8000 por segundo",
+    "upgrade_kissing_party_name": "Fiesta de besos",
+    "upgrade_kissing_party_description": "Las fiestas atraen a más chicos +45000 por segundo",
+    "upgrade_kissing_car_name": "Coche de besos",
+    "upgrade_kissing_car_description": "Entrega besos por la calle +280000 por segundo",
+    "upgrade_kissing_factory_name": "Fábrica de besos",
+    "upgrade_kissing_factory_description": "Produce besos de manera industrial +1800000 por segundo",
+    "upgrade_drone_kisser_name": "Dron besador",
+    "upgrade_drone_kisser_description": "Los drones encuentran automáticamente a los chicos +10000000 por segundo",
+    "upgrade_kiss_virus_name": "Virus informático de besos",
+    "upgrade_kiss_virus_description": "El virus propaga besos con máxima eficiencia",
+    "shop_title": "Tienda del amor",
+    "per_sec": "por segundo",
+    "per_kiss": "por beso",
+    "close_shop": "Cierra",
+    "shop_price": "Precio",
+    "effects": "Efectos",
+    "music": "Música",
+    "settings": "Configuración",
+    "version": "Versión",
+    "tg_channel": "Canal de Telegram",
+    "settings_close": "Cierra",
+    "archevements": "Logros",
+    "archevements_close": "Cerrar",
+    "progress": "Progreso",
+    "shop_tab_upgrades": "Mejoras",
+    "shop_tab_items": "Artículos",
+    "language": "Idioma"
+}
