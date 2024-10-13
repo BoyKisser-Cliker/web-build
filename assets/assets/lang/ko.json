@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "10개의 키스하기",
+    "achievement_10_kisses_notification": "초보 키스남",
+    
+    "achievement_50_kisses_title": "50개의 키스하기",
+    "achievement_50_kisses_notification": "소년의 연인",
+    
+    "achievement_100_kisses_title": "100개의 키스하기",
+    "achievement_100_kisses_notification": "거의 키스의 달인",
+    
+    "achievement_500_kisses_title": "500개의 키스하기",
+    "achievement_500_kisses_notification": "훈련 중인 키스남",
+    
+    "achievement_1000_kisses_title": "1,000개의 키스하기",
+    "achievement_1000_kisses_notification": "키스하고 웃어봐",
+    
+    "achievement_5000_kisses_title": "5,000개의 키스하기",
+    "achievement_5000_kisses_notification": "키스 습관",
+    
+    "achievement_10000_kisses_title": "10,000개의 키스하기",
+    "achievement_10000_kisses_notification": "경험이 많은 소년 키스남",
+    
+    "achievement_50000_kisses_title": "50,000개의 키스하기",
+    "achievement_50000_kisses_notification": "준전문 키스남",
+    
+    "achievement_100000_kisses_title": "100,000개의 키스하기",
+    "achievement_100000_kisses_notification": "고속 키스의 달인",
+    
+    "achievement_300000_kisses_title": "300,000개의 키스하기",
+    "achievement_300000_kisses_notification": "온 마을을 키스하다",
+    
+    "achievement_500000_kisses_title": "500,000개의 키스하기",
+    "achievement_500000_kisses_notification": "숨쉬듯이 키스하다",
+    
+    "achievement_1000000_kisses_title": "1,000,000개의 키스하기",
+    "achievement_1000000_kisses_notification": "한 도시를 키스하다",
+    
+    "achievement_2000000_kisses_title": "2,000,000개의 키스하기",
+    "achievement_2000000_kisses_notification": "별보다 더 잘 키스하다",
+    
+    "achievement_10000000_kisses_title": "10,000,000개의 키스하기",
+    "achievement_10000000_kisses_notification": "신처럼 키스하다",
+    
+    "achievement_500000000_kisses_title": "500,000,000개의 키스하기",
+    "achievement_500000000_kisses_notification": "가장 인기 있는 키스남",
+    
+    "achievement_8000000000_kisses_title": "8,000,000,000개의 키스하기",
+    "achievement_8000000000_kisses_notification": "행성 규모의 키스남",
+    
+    "achievement_10000000000_kisses_title": "10,000,000,000개의 키스하기",
+    "achievement_10000000000_kisses_notification": "우주 키스왕",
+    
+    "achievement_50000000000_kisses_title": "50,000,000,000개의 키스하기",
+    "achievement_50000000000_kisses_notification": "은하계 키스남",
+    
+    "achievement_1000000000000_kisses_title": "1,000,000,000,000개의 키스하기",
+    "achievement_1000000000000_kisses_notification": "전체 멀티버스를 키스하다",
+    
+    "achievement_10_kisses_per_second_title": "초당 10개의 키스 수익 올리기",
+    "achievement_10_kisses_per_second_notification": "자동 키스",
+    
+    "achievement_100_kisses_per_second_title": "초당 100개의 키스 수익 올리기",
+    "achievement_100_kisses_per_second_notification": "인기 있는 키스남",
+    
+    "achievement_500_kisses_per_second_title": "초당 500개의 키스 수익 올리기",
+    "achievement_500_kisses_per_second_notification": "키스 공장",
+    
+    "achievement_1000_kisses_per_second_title": "초당 1,000개의 키스 수익 올리기",
+    "achievement_1000_kisses_per_second_notification": "키스 생산 설립",
+    
+    "achievement_10000_kisses_per_second_title": "초당 10,000개의 키스 수익 올리기",
+    "achievement_10000_kisses_per_second_notification": "키스 생성기",
+    
+    "achievement_50000_kisses_per_second_title": "초당 50,000개의 키스 수익 올리기",
+    "achievement_50000_kisses_per_second_notification": "컨베이어 벨트의 키스남",
+    
+    "achievement_100000_kisses_per_second_title": "초당 100,000개의 키스 수익 올리기",
+    "achievement_100000_kisses_per_second_notification": "도매 키스남",
+    
+    "achievement_500000000_kisses_per_second_title": "초당 500,000,000개의 키스 수익 올리기",
+    "achievement_500000000_kisses_per_second_notification": "은하계를 키스하다",
+    
+    "achievement_1000000_kisses_per_second_title": "초당 1,000,000개의 키스 수익 올리기",
+    "achievement_1000000_kisses_per_second_notification": "다른 행성에 키스 공급하기",
+    
+    "achievement_1000000000000_kisses_per_second_title": "초당 1,000,000,000,000개의 키스 수익 올리기",
+    "achievement_1000000000000_kisses_per_second_notification": "모든 시대와 민족의 불사의 키스남",
+    
+    "achievement_100000000000000_kisses_title": "100,000,000,000,000개의 키스하기",
+    "achievement_100000000000000_kisses_notification": "빛의 속도보다 빠르게 키스하기",
+    
+    "upgrade_lapki_name": "발",
+    "upgrade_lapki_description": "더 효율적으로 찌르기 +1 키스당",
+    "upgrade_pomada_name": "립스틱",
+    "upgrade_pomada_description": "손을 사용하지 않고 키스하다! +0.1 초당",
+    "upgrade_sladosti_name": "사탕",
+    "upgrade_sladosti_description": "더 많은 소년들을 끌어들이다 +1 초당",
+    "upgrade_romantic_music_name": "로맨틱 음악",
+    "upgrade_romantic_music_description": "음악이 더 많은 키스를 가져오다 +8 초당",
+    "upgrade_shlushevye_toys_name": "인형",
+    "upgrade_shlushevye_toys_description": "장난감이 더 많은 키스를 가져오다 +48 초당",
+    "upgrade_romantic_letters_name": "로맨틱 편지",
+    "upgrade_romantic_letters_description": "더 많은 끌어들이다 +270 초당",
+    "upgrade_pink_glasses_name": "핑크색 안경",
+    "upgrade_pink_glasses_description": "다른 시각이 더 많은 키스를 가져오다 +1500 초당",
+    "upgrade_kiss_machine_name": "키스 기계",
+    "upgrade_kiss_machine_description": "공공 장소에서 키스를 배포하다 +8000 초당",
+    "upgrade_kissing_party_name": "키스 파티",
+    "upgrade_kissing_party_description": "파티가 더 많은 소년들을 끌어들이다 +45000 초당",
+    "upgrade_kissing_car_name": "키스 차",
+    "upgrade_kissing_car_description": "거리에서 키스를 배달하다 +280000 초당",
+    "upgrade_kissing_factory_name": "키스 공장",
+    "upgrade_kissing_factory_description": "산업적으로 키스를 생산하다 +1800000 초당",
+    "upgrade_drone_kisser_name": "키스 드론",
+    "upgrade_drone_kisser_description": "드론이 소년들을 자동으로 찾다 +10000000 초당",
+    "upgrade_kiss_virus_name": "키스 컴퓨터 바이러스",
+    "upgrade_kiss_virus_description": "바이러스가 최대 효율로 키스를 전파하다",
+    "shop_title": "사랑의 상점",
+    "per_sec": "초당",
+    "per_kiss": "키스당",
+    "close_shop": "닫기",
+    "shop_price": "가격",
+    "effects": "효과",
+    "music": "음악",
+    "settings": "설정",
+    "version": "버전",
+    "tg_channel": "텔레그램 채널",
+    "settings_close": "닫기",
+    "archevements": "업적",
+    "archevements_close": "닫기",
+    "progress": "진행 상황",
+    "shop_tab_upgrades": "업그레이드",
+    "shop_tab_items": "아이템",
+    "language": "언어"
+}

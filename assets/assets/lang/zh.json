@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "做10个吻",
+    "achievement_10_kisses_notification": "初学者男孩亲吻者",
+    
+    "achievement_50_kisses_title": "做50个吻",
+    "achievement_50_kisses_notification": "男孩的爱好者",
+    
+    "achievement_100_kisses_title": "做100个吻",
+    "achievement_100_kisses_notification": "几乎是吻的高手",
+    
+    "achievement_500_kisses_title": "做500个吻",
+    "achievement_500_kisses_notification": "训练中的亲吻者",
+    
+    "achievement_1000_kisses_title": "做1,000个吻",
+    "achievement_1000_kisses_notification": "亲吻并微笑",
+    
+    "achievement_5000_kisses_title": "做5,000个吻",
+    "achievement_5000_kisses_notification": "亲吻的习惯",
+    
+    "achievement_10000_kisses_title": "做10,000个吻",
+    "achievement_10000_kisses_notification": "经验丰富的男孩亲吻者",
+    
+    "achievement_50000_kisses_title": "做50,000个吻",
+    "achievement_50000_kisses_notification": "半职业亲吻者",
+    
+    "achievement_100000_kisses_title": "做100,000个吻",
+    "achievement_100000_kisses_notification": "高速吻的高手",
+    
+    "achievement_300000_kisses_title": "做300,000个吻",
+    "achievement_300000_kisses_notification": "吻一个整个村庄",
+    
+    "achievement_500000_kisses_title": "做500,000个吻",
+    "achievement_500000_kisses_notification": "像呼吸一样亲吻",
+    
+    "achievement_1000000_kisses_title": "做1,000,000个吻",
+    "achievement_1000000_kisses_notification": "亲吻一个整个城市",
+    
+    "achievement_2000000_kisses_title": "做2,000,000个吻",
+    "achievement_2000000_kisses_notification": "比星星更好的亲吻",
+    
+    "achievement_10000000_kisses_title": "做10,000,000个吻",
+    "achievement_10000000_kisses_notification": "像神一样亲吻",
+    
+    "achievement_500000000_kisses_title": "做500,000,000个吻",
+    "achievement_500000000_kisses_notification": "最受欢迎的亲吻者",
+    
+    "achievement_8000000000_kisses_title": "做8,000,000,000个吻",
+    "achievement_8000000000_kisses_notification": "行星规模的亲吻者",
+    
+    "achievement_10000000000_kisses_title": "做10,000,000,000个吻",
+    "achievement_10000000000_kisses_notification": "宇宙的亲吻之王",
+    
+    "achievement_50000000000_kisses_title": "做50,000,000,000个吻",
+    "achievement_50000000000_kisses_notification": "银河系亲吻者",
+    
+    "achievement_1000000000000_kisses_title": "做1,000,000,000,000个吻",
+    "achievement_1000000000000_kisses_notification": "吻遍整个多元宇宙",
+    
+    "achievement_10_kisses_per_second_title": "每秒提高到10个吻",
+    "achievement_10_kisses_per_second_notification": "自动吻",
+    
+    "achievement_100_kisses_per_second_title": "每秒提高到100个吻",
+    "achievement_100_kisses_per_second_notification": "需求量大的亲吻者",
+    
+    "achievement_500_kisses_per_second_title": "每秒提高到500个吻",
+    "achievement_500_kisses_per_second_notification": "亲吻工厂",
+    
+    "achievement_1000_kisses_per_second_title": "每秒提高到1,000个吻",
+    "achievement_1000_kisses_per_second_notification": "建立亲吻生产",
+    
+    "achievement_10000_kisses_per_second_title": "每秒提高到10,000个吻",
+    "achievement_10000_kisses_per_second_notification": "亲吻发电机",
+    
+    "achievement_50000_kisses_per_second_title": "每秒提高到50,000个吻",
+    "achievement_50000_kisses_per_second_notification": "在传送带上的亲吻者",
+    
+    "achievement_100000_kisses_per_second_title": "每秒提高到100,000个吻",
+    "achievement_100000_kisses_per_second_notification": "批发亲吻者",
+    
+    "achievement_500000000_kisses_per_second_title": "每秒提高到500,000,000个吻",
+    "achievement_500000000_kisses_per_second_notification": "吻银河",
+    
+    "achievement_1000000_kisses_per_second_title": "每秒提高到1,000,000个吻",
+    "achievement_1000000_kisses_per_second_notification": "向其他星球供应吻",
+    
+    "achievement_1000000000000_kisses_per_second_title": "每秒提高到1,000,000,000,000个吻",
+    "achievement_1000000000000_kisses_per_second_notification": "各个时代和民族的不朽亲吻者",
+    
+    "achievement_100000000000000_kisses_title": "做100,000,000,000,000个吻",
+    "achievement_100000000000000_kisses_notification": "亲吻速度超过光速",
+    
+    "upgrade_lapki_name": "爪子",
+    "upgrade_lapki_description": "您更有效地戳 +1 个吻每次戳",
+    "upgrade_pomada_name": "口红",
+    "upgrade_pomada_description": "您可以免手亲吻！ +0.1 每秒",
+    "upgrade_sladosti_name": "糖果",
+    "upgrade_sladosti_description": "您吸引更多的男孩 +1 每秒",
+    "upgrade_romantic_music_name": "浪漫音乐",
+    "upgrade_romantic_music_description": "音乐带来更多的吻 +8 每秒",
+    "upgrade_shlushevye_toys_name": "毛绒玩具",
+    "upgrade_shlushevye_toys_description": "玩具带来更多 +48 每秒",
+    "upgrade_romantic_letters_name": "浪漫信件",
+    "upgrade_romantic_letters_description": "吸引更多 +270 每秒",
+    "upgrade_pink_glasses_name": "玫瑰色眼镜",
+    "upgrade_pink_glasses_description": "不同的视角带来更多 +1500 每秒",
+    "upgrade_kiss_machine_name": "亲吻机器",
+    "upgrade_kiss_machine_description": "在公共场所分发吻 +8000 每秒",
+    "upgrade_kissing_party_name": "亲吻派对",
+    "upgrade_kissing_party_description": "聚会吸引更多的男孩 +45000 每秒",
+    "upgrade_kissing_car_name": "亲吻车",
+    "upgrade_kissing_car_description": "在街上配送吻 +280000 每秒",
+    "upgrade_kissing_factory_name": "亲吻工厂",
+    "upgrade_kissing_factory_description": "工业化生产吻 +1800000 每秒",
+    "upgrade_drone_kisser_name": "亲吻无人机",
+    "upgrade_drone_kisser_description": "无人机自动找到男孩 +10000000 每秒",
+    "upgrade_kiss_virus_name": "亲吻计算机病毒",
+    "upgrade_kiss_virus_description": "病毒以最高效率传播吻",
+    "shop_title": "爱之商店",
+    "per_sec": "每秒",
+    "per_kiss": "每个吻",
+    "close_shop": "关闭我",
+    "shop_price": "价格",
+    "effects": "效果",
+    "music": "音乐",
+    "settings": "设置",
+    "version": "版本",
+    "tg_channel": "Telegram频道",
+    "settings_close": "关闭我",
+    "archevements": "成就",
+    "archevements_close": "关闭",
+    "progress": "进展",
+    "shop_tab_upgrades": "升级",
+    "shop_tab_items": "物品",
+    "language": "语言"
+}

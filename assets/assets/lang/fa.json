@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "10 بوسه بزنید",
+    "achievement_10_kisses_notification": "بوسه‌زن مبتدی",
+    
+    "achievement_50_kisses_title": "50 بوسه بزنید",
+    "achievement_50_kisses_notification": "عاشق پسران",
+    
+    "achievement_100_kisses_title": "100 بوسه بزنید",
+    "achievement_100_kisses_notification": "تقریباً استاد بوسه‌ها",
+    
+    "achievement_500_kisses_title": "500 بوسه بزنید",
+    "achievement_500_kisses_notification": "بوسه‌زن در حال تمرین",
+    
+    "achievement_1000_kisses_title": "1,000 بوسه بزنید",
+    "achievement_1000_kisses_notification": "بوسه بزن و لبخند بزن",
+    
+    "achievement_5000_kisses_title": "5,000 بوسه بزنید",
+    "achievement_5000_kisses_notification": "عادت بوسه زدن",
+    
+    "achievement_10000_kisses_title": "10,000 بوسه بزنید",
+    "achievement_10000_kisses_notification": "بوسه‌زن با تجربه",
+    
+    "achievement_50000_kisses_title": "50,000 بوسه بزنید",
+    "achievement_50000_kisses_notification": "بوسه‌زن نیمه‌حرفه‌ای",
+    
+    "achievement_100000_kisses_title": "100,000 بوسه بزنید",
+    "achievement_100000_kisses_notification": "استاد بوسه‌های سریع",
+    
+    "achievement_300000_kisses_title": "300,000 بوسه بزنید",
+    "achievement_300000_kisses_notification": "یک روستا را ببوسید",
+    
+    "achievement_500000_kisses_title": "500,000 بوسه بزنید",
+    "achievement_500000_kisses_notification": "بوسه بزنید مثل اینکه نفس می‌کشید",
+    
+    "achievement_1000000_kisses_title": "1,000,000 بوسه بزنید",
+    "achievement_1000000_kisses_notification": "یک شهر را ببوسید",
+    
+    "achievement_2000000_kisses_title": "2,000,000 بوسه بزنید",
+    "achievement_2000000_kisses_notification": "بهتر از ستاره‌ها بوسه بزنید",
+    
+    "achievement_10000000_kisses_title": "10,000,000 بوسه بزنید",
+    "achievement_10000000_kisses_notification": "مثل یک خدا بوسه بزنید",
+    
+    "achievement_500000000_kisses_title": "500,000,000 بوسه بزنید",
+    "achievement_500000000_kisses_notification": "بوسه‌زن محبوب‌ترین",
+    
+    "achievement_8000000000_kisses_title": "8,000,000,000 بوسه بزنید",
+    "achievement_8000000000_kisses_notification": "بوسه‌زن به مقیاس سیاره‌ای",
+    
+    "achievement_10000000000_kisses_title": "10,000,000,000 بوسه بزنید",
+    "achievement_10000000000_kisses_notification": "پادشاه بوسه‌های جهان",
+    
+    "achievement_50000000000_kisses_title": "50,000,000,000 بوسه بزنید",
+    "achievement_50000000000_kisses_notification": "بوسه‌زن کهکشانی",
+    
+    "achievement_1000000000000_kisses_title": "1,000,000,000,000 بوسه بزنید",
+    "achievement_1000000000000_kisses_notification": "تمام چندجهانی را ببوسید",
+    
+    "achievement_10_kisses_per_second_title": "درآمد را به 10 بوسه در ثانیه برسانید",
+    "achievement_10_kisses_per_second_notification": "بوسه‌های خودکار",
+    
+    "achievement_100_kisses_per_second_title": "درآمد را به 100 بوسه در ثانیه برسانید",
+    "achievement_100_kisses_per_second_notification": "بوسه‌زن مورد تقاضا",
+    
+    "achievement_500_kisses_per_second_title": "درآمد را به 500 بوسه در ثانیه برسانید",
+    "achievement_500_kisses_per_second_notification": "کارخانه بوسه",
+    
+    "achievement_1000_kisses_per_second_title": "درآمد را به 1,000 بوسه در ثانیه برسانید",
+    "achievement_1000_kisses_per_second_notification": "تولید بوسه را برقرار کنید",
+    
+    "achievement_10000_kisses_per_second_title": "درآمد را به 10,000 بوسه در ثانیه برسانید",
+    "achievement_10000_kisses_per_second_notification": "ژنراتور بوسه",
+    
+    "achievement_50000_kisses_per_second_title": "درآمد را به 50,000 بوسه در ثانیه برسانید",
+    "achievement_50000_kisses_per_second_notification": "بوسه‌زن روی نوار نقاله",
+    
+    "achievement_100000_kisses_per_second_title": "درآمد را به 100,000 بوسه در ثانیه برسانید",
+    "achievement_100000_kisses_per_second_notification": "بوسه‌زن عمده‌فروشی",
+    
+    "achievement_500000000_kisses_per_second_title": "درآمد را به 500,000,000 بوسه در ثانیه برسانید",
+    "achievement_500000000_kisses_per_second_notification": "بوسه کهکشان‌ها",
+    
+    "achievement_1000000_kisses_per_second_title": "درآمد را به 1,000,000 بوسه در ثانیه برسانید",
+    "achievement_1000000_kisses_per_second_notification": "تأمین‌کننده بوسه به سیارات دیگر",
+    
+    "achievement_1000000000000_kisses_per_second_title": "درآمد را به 1,000,000,000,000 بوسه در ثانیه برسانید",
+    "achievement_1000000000000_kisses_per_second_notification": "بوسه‌زن جاودانه تمام زمان‌ها و قوم‌ها",
+    
+    "achievement_100000000000000_kisses_title": "100,000,000,000,000 بوسه بزنید",
+    "achievement_100000000000000_kisses_notification": "بوسه سریع‌تر از سرعت نور بزنید",
+    
+    "upgrade_lapki_name": "پاها",
+    "upgrade_lapki_description": "بیشتر به‌طور مؤثر لمس کنید +1 بوسه به ازای هر لمس",
+    "upgrade_pomada_name": "رژ لب",
+    "upgrade_pomada_description": "بدون استفاده از دست بوسه می‌زنید! +0.1 در ثانیه",
+    "upgrade_sladosti_name": "شیرینی‌ها",
+    "upgrade_sladosti_description": "بیشتر پسران را جذب می‌کنید +1 در ثانیه",
+    "upgrade_romantic_music_name": "موسیقی عاشقانه",
+    "upgrade_romantic_music_description": "موسیقی بوسه‌های بیشتری به ارمغان می‌آورد +8 در ثانیه",
+    "upgrade_shlushevye_toys_name": "اسباب‌بازی‌های پشمالو",
+    "upgrade_shlushevye_toys_description": "اسباب‌بازی‌ها حتی بیشتر به ارمغان می‌آورند +48 در ثانیه",
+    "upgrade_romantic_letters_name": "نامه‌های عاشقانه",
+    "upgrade_romantic_letters_description": "بیشتر جذب می‌کنید +270 در ثانیه",
+    "upgrade_pink_glasses_name": "عینک صورتی",
+    "upgrade_pink_glasses_description": "نگاه متفاوت حتی بیشتر به ارمغان می‌آورد +1500 در ثانیه",
+    "upgrade_kiss_machine_name": "دستگاه بوسه",
+    "upgrade_kiss_machine_description": "در مکان‌های عمومی بوسه توزیع می‌کند +8000 در ثانیه",
+    "upgrade_kissing_party_name": "مهمانی بوسه",
+    "upgrade_kissing_party_description": "مهمانی‌ها پسران بیشتری جذب می‌کنند +45000 در ثانیه",
+    "upgrade_kissing_car_name": "ماشین بوسه",
+    "upgrade_kissing_car_description": "بوسه‌ها را در خیابان توزیع می‌کند +280000 در ثانیه",
+    "upgrade_kissing_factory_name": "کارخانه بوسه",
+    "upgrade_kissing_factory_description": "به‌طور صنعتی بوسه تولید می‌کند +1800000 در ثانیه",
+    "upgrade_drone_kisser_name": "درو‌ن بوسه‌زن",
+    "upgrade_drone_kisser_description": "درو‌ن‌ها به‌طور خودکار پسران را پیدا می‌کنند +10000000 در ثانیه",
+    "upgrade_kiss_virus_name": "ویروس بوسه",
+    "upgrade_kiss_virus_description": "ویروس بوسه را با حداکثر کارایی گسترش می‌دهد",
+    "shop_title": "فروشگاه عشق",
+    "per_sec": "در ثانیه",
+    "per_kiss": "به ازای هر بوسه",
+    "close_shop": "ببندید",
+    "shop_price": "قیمت",
+    "effects": "اثرات",
+    "music": "موسیقی",
+    "settings": "تنظیمات",
+    "version": "نسخه",
+    "tg_channel": "کانال تلگرام",
+    "settings_close": "ببندید",
+    "archevements": "دستاوردها",
+    "archevements_close": "ببندید",
+    "progress": "پیشرفت",
+    "shop_tab_upgrades": "به‌روزرسانی‌ها",
+    "shop_tab_items": "اقلام",
+    "language": "زبان"
+}

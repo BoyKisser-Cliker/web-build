@@ -1,0 +1,135 @@
+{
+    "achievement_10_kisses_title": "Mache 10 Küsse",
+    "achievement_10_kisses_notification": "Anfänger Küsschen-Geber",
+    
+    "achievement_50_kisses_title": "Mache 50 Küsse",
+    "achievement_50_kisses_notification": "Liebhaber von Jungs",
+    
+    "achievement_100_kisses_title": "Mache 100 Küsse",
+    "achievement_100_kisses_notification": "Fast ein Meister der Küsse",
+    
+    "achievement_500_kisses_title": "Mache 500 Küsse",
+    "achievement_500_kisses_notification": "Trainierender Küsschen-Geber",
+    
+    "achievement_1000_kisses_title": "Mache 1.000 Küsse",
+    "achievement_1000_kisses_notification": "Küsse und lächle",
+    
+    "achievement_5000_kisses_title": "Mache 5.000 Küsse",
+    "achievement_5000_kisses_notification": "Küssgewohnheit",
+    
+    "achievement_10000_kisses_title": "Mache 10.000 Küsse",
+    "achievement_10000_kisses_notification": "Erfahrener Küsschen-Geber",
+    
+    "achievement_50000_kisses_title": "Mache 50.000 Küsse",
+    "achievement_50000_kisses_notification": "Halb-professioneller Küsschen-Geber",
+    
+    "achievement_100000_kisses_title": "Mache 100.000 Küsse",
+    "achievement_100000_kisses_notification": "Meister der Hochgeschwindigkeitsküsse",
+    
+    "achievement_300000_kisses_title": "Mache 300.000 Küsse",
+    "achievement_300000_kisses_notification": "Küsse ein ganzes Dorf",
+    
+    "achievement_500000_kisses_title": "Mache 500.000 Küsse",
+    "achievement_500000_kisses_notification": "Küsse wie du atmest",
+    
+    "achievement_1000000_kisses_title": "Mache 1.000.000 Küsse",
+    "achievement_1000000_kisses_notification": "Küsse eine ganze Stadt",
+    
+    "achievement_2000000_kisses_title": "Mache 2.000.000 Küsse",
+    "achievement_2000000_kisses_notification": "Küsse besser als die Sterne",
+    
+    "achievement_10000000_kisses_title": "Mache 10.000.000 Küsse",
+    "achievement_10000000_kisses_notification": "Küsse wie ein Gott",
+    
+    "achievement_500000000_kisses_title": "Mache 500.000.000 Küsse",
+    "achievement_500000000_kisses_notification": "Beliebtester Küsschen-Geber",
+    
+    "achievement_8000000000_kisses_title": "Mache 8.000.000.000 Küsse",
+    "achievement_8000000000_kisses_notification": "Planetarisch scale Küsschen-Geber",
+    
+    "achievement_10000000000_kisses_title": "Mache 10.000.000.000 Küsse",
+    "achievement_10000000000_kisses_notification": "Kuss-König des Universums",
+    
+    "achievement_50000000000_kisses_title": "Mache 50.000.000.000 Küsse",
+    "achievement_50000000000_kisses_notification": "Galaktischer Küsschen-Geber",
+    
+    "achievement_1000000000000_kisses_title": "Mache 1.000.000.000.000 Küsse",
+    "achievement_1000000000000_kisses_notification": "Küsse das gesamte Multiversum",
+    
+    "achievement_10_kisses_per_second_title": "Einkommen auf 10 Küsse pro Sekunde erhöhen",
+    "achievement_10_kisses_per_second_notification": "Automatische Küsse",
+    
+    "achievement_100_kisses_per_second_title": "Einkommen auf 100 Küsse pro Sekunde erhöhen",
+    "achievement_100_kisses_per_second_notification": "Gefragter Küsschen-Geber",
+    
+    "achievement_500_kisses_per_second_title": "Einkommen auf 500 Küsse pro Sekunde erhöhen",
+    "achievement_500_kisses_per_second_notification": "Kussfabrik",
+    
+    "achievement_1000_kisses_per_second_title": "Einkommen auf 1.000 Küsse pro Sekunde erhöhen",
+    "achievement_1000_kisses_per_second_notification": "Kussproduktion etablieren",
+    
+    "achievement_10000_kisses_per_second_title": "Einkommen auf 10.000 Küsse pro Sekunde erhöhen",
+    "achievement_10000_kisses_per_second_notification": "Kussgenerator",
+    
+    "achievement_50000_kisses_per_second_title": "Einkommen auf 50.000 Küsse pro Sekunde erhöhen",
+    "achievement_50000_kisses_per_second_notification": "Küssen am Fließband",
+    
+    "achievement_100000_kisses_per_second_title": "Einkommen auf 100.000 Küsse pro Sekunde erhöhen",
+    "achievement_100000_kisses_per_second_notification": "Großhandelsküsschen-Geber",
+    
+    "achievement_500000000_kisses_per_second_title": "Einkommen auf 500.000.000 Küsse pro Sekunde erhöhen",
+    "achievement_500000000_kisses_per_second_notification": "Küsse Galaxien",
+    
+    "achievement_1000000_kisses_per_second_title": "Einkommen auf 1.000.000 Küsse pro Sekunde erhöhen",
+    "achievement_1000000_kisses_per_second_notification": "Lieferant von Küssen an andere Planeten",
+    
+    "achievement_1000000000000_kisses_per_second_title": "Einkommen auf 1.000.000.000.000 Küsse pro Sekunde erhöhen",
+    "achievement_1000000000000_kisses_per_second_notification": "Unsterblicher Küsschen-Geber aller Zeiten und Völker",
+    
+    "achievement_100000000000000_kisses_title": "Mache 100.000.000.000.000 Küsse",
+    "achievement_100000000000000_kisses_notification": "Küsse schneller als das Licht",
+    
+    "upgrade_lapki_name": "Pfoten",
+    "upgrade_lapki_description": "Du pokst effizienter +1 Kuss pro Pok",
+    "upgrade_pomada_name": "Lippenstift",
+    "upgrade_pomada_description": "Du küsst freihändig! +0.1 pro Sekunde",
+    "upgrade_sladosti_name": "Süßigkeiten",
+    "upgrade_sladosti_description": "Du ziehst mehr Jungs an +1 pro Sekunde",
+    "upgrade_romantic_music_name": "Romantische Musik",
+    "upgrade_romantic_music_description": "Musik bringt mehr Küsse +8 pro Sekunde",
+    "upgrade_shlushevye_toys_name": "Stofftiere",
+    "upgrade_shlushevye_toys_description": "Spielzeuge bringen sogar mehr +48 pro Sekunde",
+    "upgrade_romantic_letters_name": "Romantische Briefe",
+    "upgrade_romantic_letters_description": "Zieht viel mehr an +270 pro Sekunde",
+    "upgrade_pink_glasses_name": "Rosarote Brille",
+    "upgrade_pink_glasses_description": "Eine andere Sicht bringt sogar mehr +1500 pro Sekunde",
+    "upgrade_kiss_machine_name": "Kussmaschine",
+    "upgrade_kiss_machine_description": "Gibt Küsse an öffentlichen Orten aus +8000 pro Sekunde",
+    "upgrade_kissing_party_name": "Kuss-Party",
+    "upgrade_kissing_party_description": "Partys ziehen mehr Jungs an +45000 pro Sekunde",
+    "upgrade_kissing_car_name": "Kuss-Auto",
+    "upgrade_kissing_car_description": "Bringt Küsse entlang der Straße +280000 pro Sekunde",
+    "upgrade_kissing_factory_name": "Kussfabrik",
+    "upgrade_kissing_factory_description": "Produziert Küsse industriell +1800000 pro Sekunde",
+    "upgrade_drone_kisser_name": "Kussdrohne",
+    "upgrade_drone_kisser_description": "Drohnen finden automatisch Jungs +10000000 pro Sekunde",
+    "upgrade_kiss_virus_name": "Kuss-Computer-Virus",
+    "upgrade_kiss_virus_description": "Der Virus verbreitet Küsse mit maximaler Effizienz",
+    "shop_title": "Liebesladen",
+    "per_sec": "pro Sekunde",
+    "per_kiss": "pro Kuss",
+    "close_shop": "Schließe mich",
+    "shop_price": "Preis",
+    "effects": "Effekte",
+    "music": "Musik",
+    "settings": "Einstellungen",
+    "version": "Version",
+    "tg_channel": "Telegram-Kanal",
+    "settings_close": "Schließe mich",
+    "archevements": "Errungenschaften",
+    "archevements_close": "Schließen",
+    "progress": "Fortschritt",
+    "shop_tab_upgrades": "Upgrades",
+    "shop_tab_items": "Artikel",
+    "language": "Sprache"
+}
